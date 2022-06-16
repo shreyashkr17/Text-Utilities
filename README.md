@@ -1,3 +1,6 @@
+# TextUtils
+TextUtils is a utility which can be used to manipulate your text in the way you want.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
